@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+  "test": "node --test",
     "build": "mkdir -p dist && cp src/app.js dist/app.js"
   },
   "repository": {
